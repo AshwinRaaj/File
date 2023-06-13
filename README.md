@@ -21,9 +21,9 @@ Pass the details of student to the function.
 ### Step 6:
 File has been created and written with student details.
 ## Program:
-developed by: Kishore kumar S
+developed by: Ashwin Raaj.S
 
-Reg no: 212221240023
+Reg no: 212221230008
 ```
 using System;
 using System.Collections.Generic;
